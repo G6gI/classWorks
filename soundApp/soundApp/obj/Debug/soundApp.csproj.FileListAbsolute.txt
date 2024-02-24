@@ -1,0 +1,12 @@
+C:\Users\alix2\OneDrive\Рабочий стол\soundApp\soundApp\bin\Debug\soundApp.exe.config
+C:\Users\alix2\OneDrive\Рабочий стол\soundApp\soundApp\bin\Debug\soundApp.exe
+C:\Users\alix2\OneDrive\Рабочий стол\soundApp\soundApp\bin\Debug\soundApp.pdb
+C:\Users\alix2\OneDrive\Рабочий стол\soundApp\soundApp\obj\Debug\soundApp.csproj.AssemblyReference.cache
+C:\Users\alix2\OneDrive\Рабочий стол\soundApp\soundApp\obj\Debug\soundApp.Form1.resources
+C:\Users\alix2\OneDrive\Рабочий стол\soundApp\soundApp\obj\Debug\soundApp.Properties.Resources.resources
+C:\Users\alix2\OneDrive\Рабочий стол\soundApp\soundApp\obj\Debug\soundApp.csproj.GenerateResource.cache
+C:\Users\alix2\OneDrive\Рабочий стол\soundApp\soundApp\obj\Debug\soundApp.csproj.CoreCompileInputs.cache
+C:\Users\alix2\OneDrive\Рабочий стол\soundApp\soundApp\obj\Debug\soundApp.exe
+C:\Users\alix2\OneDrive\Рабочий стол\soundApp\soundApp\obj\Debug\soundApp.pdb
+C:\Users\alix2\OneDrive\Рабочий стол\soundApp\soundApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\alix2\OneDrive\Рабочий стол\soundApp\soundApp\obj\Debug\soundApp.csproj.CopyComplete

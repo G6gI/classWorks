@@ -1,0 +1,15 @@
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\obj\Debug\VideoApp.csproj.AssemblyReference.cache
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\obj\Debug\VideoApp.Form1.resources
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\obj\Debug\VideoApp.Properties.Resources.resources
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\obj\Debug\VideoApp.csproj.GenerateResource.cache
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\obj\Debug\VideoApp.csproj.CoreCompileInputs.cache
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\bin\Debug\VideoApp.exe.config
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\bin\Debug\VideoApp.exe
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\bin\Debug\VideoApp.pdb
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\obj\Debug\VideoApp.csproj.ResolveComReference.cache
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\obj\Debug\VideoApp.exe
+C:\Users\alix2\OneDrive\Рабочий стол\VideoApp\VideoApp\obj\Debug\VideoApp.pdb

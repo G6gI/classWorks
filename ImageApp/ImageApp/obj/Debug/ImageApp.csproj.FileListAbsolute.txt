@@ -1,0 +1,10 @@
+C:\Users\alix2\OneDrive\Рабочий стол\ImageApp\ImageApp\bin\Debug\ImageApp.exe.config
+C:\Users\alix2\OneDrive\Рабочий стол\ImageApp\ImageApp\bin\Debug\ImageApp.exe
+C:\Users\alix2\OneDrive\Рабочий стол\ImageApp\ImageApp\bin\Debug\ImageApp.pdb
+C:\Users\alix2\OneDrive\Рабочий стол\ImageApp\ImageApp\obj\Debug\ImageApp.csproj.AssemblyReference.cache
+C:\Users\alix2\OneDrive\Рабочий стол\ImageApp\ImageApp\obj\Debug\ImageApp.Form1.resources
+C:\Users\alix2\OneDrive\Рабочий стол\ImageApp\ImageApp\obj\Debug\ImageApp.Properties.Resources.resources
+C:\Users\alix2\OneDrive\Рабочий стол\ImageApp\ImageApp\obj\Debug\ImageApp.csproj.GenerateResource.cache
+C:\Users\alix2\OneDrive\Рабочий стол\ImageApp\ImageApp\obj\Debug\ImageApp.csproj.CoreCompileInputs.cache
+C:\Users\alix2\OneDrive\Рабочий стол\ImageApp\ImageApp\obj\Debug\ImageApp.exe
+C:\Users\alix2\OneDrive\Рабочий стол\ImageApp\ImageApp\obj\Debug\ImageApp.pdb
